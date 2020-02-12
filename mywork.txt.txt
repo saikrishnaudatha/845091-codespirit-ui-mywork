@@ -1,0 +1,19 @@
+Associate id:
+845901
+Other team members:
+845029,845030,845064,845091
+Team lead:
+845064
+My Role in team:
+1. To develop UI.
+My development files:
+1. index.html
+2. ContactUs.html
+3.main.css
+4.contact.css
+I was strong in:
+1. JavaScript
+2. Css
+3. Documentation
+I was weak in:
+1.local storage
